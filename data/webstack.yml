@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: 快搜
+      logo: xssearch.png
+      url: https://search.chongbuluo.com/
+      description: 快搜，搜索快人一步。
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -19,10 +23,6 @@
       logo: 开源中国.jpg
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
     - title: CODING
       logo: coding.png
       url: https://shenweiyan.coding.net/user/projects
@@ -31,6 +31,14 @@
       logo: github.jpg
       url: https://github.com/
       description: GitHub 开源社区。
+    - title: 公众号平台
+      logo: 微信公众号.png
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体也有自己的品牌。
+    - title: 墨滴
+      logo: 墨滴.png
+      url: https://www.mdnice.com/
+      description: markdown nice - 墨滴|看颜值的文章社区。
     - title: Md2ALL
       logo: md2all.jpg
       url: http://md.aclickall.com/
@@ -51,10 +59,6 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
-    - title: 墨滴
-      logo: 墨滴.png
-      url: https://www.mdnice.com/
-      description: markdown nice - 墨滴|看颜值的文章社区。
     - title: 哔哩哔哩
       logo: 哔哩哔哩.png
       url: https://www.bilibili.com/
@@ -86,39 +90,30 @@
       logo: scihub.png
       url: https://sci-hub.se/
       description: SCI-Hub:科研分享，知识无界。
-    - title: GitHub
-      logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: Md2ALL
-      logo: md2all.jpg
-      url: http://md.aclickall.com/
-      description: Markdown 排版利器。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 简书
-      logo: 简书.png
-      url: https://www.jianshu.com/
-      description: 简书创作社区。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 哔哩哔哩
-      logo: 哔哩哔哩.png
-      url: https://www.bilibili.com/
-      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
-
+    - title: OPENi
+      logo: openi.png
+      url: https://openi.nlm.nih.gov/
+      description: 实验图片搜索引擎-加速你的科研。
+    - title: OVID
+      logo: ovid.png
+      url: https://ovidsp.ovid.com/
+      description: 全球最受欢迎医学信息平台和数据库。
+    - title: EMBASE
+      logo: embase.png
+      url: https://www.embase.com/#search
+      description: 世界上最全面的生物医学文献数据库。
+    - title: IF查询
+      logo: letpub.jpg
+      url: http://www.letpub.com.cn/index.php?page=journalapp
+      description: 最新SCI影响因子查询及期刊投稿分析系统。
+    - title: 学术搜索
+      logo: xssearch.png
+      url: https://scholar.chongbuluo.com/
+      description: 站在巨人的肩膀上。
+    - title: i学术
+      logo: ixsdh.png
+      url: https://www.ixsdh.com/
+      description: 信噪比最高的学术导航。   
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
@@ -176,23 +171,52 @@
           description: 云桌面,一站式云电脑服务平台。
     - term: 办公学习
       links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
+        - title: 腾讯文档
+          logo: txwd.png
+          url: https://docs.qq.com/
+          description: 多人同时编辑的在线文档。
+        - title: 金山文档
+          logo: jswd.png
+          url: https://www.kdocs.cn/
+          description: 多人实时在线查看和编辑。
+        - title: 幕布
+          logo: mubu.png
+          url: https://mubu.com/
+          description: 幕布，让学习生活更专注高效。
+        - title: 石墨文档
+          logo: smwdjpg.jpg
+          url: https://shimo.im/
+          description: 全新一代云端 Office，面向未来的办公软件。
+        - title: 百度脑图
+          logo: bdnt.jpg
+          url: https://naotu.baidu.com/
+          description: 控制创意，如此简单。
         - title: ProcessOn
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-
+    - term: 翻译
+      links:
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
+        - title: 搜狗翻译
+          logo: sgfy.png
+          url: https://fanyi.sogou.com/
+          description: 搜狗翻译。
+        - title: DeepL翻译
+          logo: deepl.png
+          url: https://www.deepl.com/translator
+          description: DeepL翻译。
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -222,6 +246,22 @@
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
+        - title: 奈菲影视
+          logo: nfys.png
+          url: https://www.nfmovies.com/
+          description: 奈菲影视-永久免费的福利超清影视站。
+        - title: 神马影院
+          logo: smyy.png
+          url: https://www.shenma4480.com/
+          description: 神马电影院。
+        - title: VIP解析
+          logo: vipkk.png
+          url: http://czjx8.com/
+          description: 船长解析-vip视频在线解析。
+        - title: 片吧影院
+          logo: pbyy.png
+          url: https://www.pianba.net/
+          description: 片吧影院。
         - title: 电影天堂（DYTT8）
           logo: 电影天堂.png
           url: https://www.dytt8.net/index.htm
@@ -240,8 +280,6 @@
           logo: 战地之王.png
           url: https://ava.mangot5.com/ava/index
           description: 台服 AVA 战地之王。
-   
-      
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
@@ -263,8 +301,20 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
+        - title: 蓝奏云
+          logo: lzyun.png
+          usrl: https://www.lanzou.com/
+          description: 天下武功，唯快不破!。
+        - title: 奶牛快传
+          logo: nnkc.png
+          usrl: https://cowtransfer.com/
+          description: 奶牛快传，传文件文件下载不限速。
     - term: 图标素材
       links:
+        - title: biorender作图
+          logo: biorender.png
+          url: https://biorender.com/
+          description: 科研绘图神器|BioRender.
         - title: Iconfinder
           logo: Iconfinder.png
           url: https://www.iconfinder.com
@@ -477,8 +527,6 @@
           url: http://ppt.500d.me/
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
-      
-
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
