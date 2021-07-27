@@ -11,6 +11,10 @@
       logo: qq邮箱.png
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
+    - title: 网易邮箱
+      logo: 网易邮箱.png
+      url: https://mail.163.com/
+      description: 腾讯 QQ 邮箱。  
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
@@ -47,15 +51,73 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
+    - title: 墨滴
+      logo: 墨滴.png
+      url: https://www.mdnice.com/
+      description: markdown nice - 墨滴|看颜值的文章社区。
+    - title: 哔哩哔哩
+      logo: 哔哩哔哩.png
+      url: https://www.bilibili.com/
+      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+- taxonomy: 文献检索
+  icon: far fa-star
+  links: 
+    - title: Pubmed
+      logo: pubmed.png
+      url: https://pubmed.ncbi.nlm.nih.gov/
+      description: PubMed。
+    - title: CNKI
+      logo: CNKI知网.png
+      url: https://www.cnki.net/
+      description: 中国知网。
+    - title: Web of Science
+      logo: webofscience.jpg
+      url: https://www.webofscience.com
+      description: Web of Science。  
+    - title: 根哥学术
+      logo: geenmedical.png
+      url: https://www.geenmedical.com/
+      description: GeenMedical 根哥学术- Geen Medical
+    - title: 飞鸟科研助手
+      logo: 飞鸟.png
+      url: https://flybird.cc/
+      description: flybird.cc飞鸟科研助手。
+    - title: sci-hub
+      logo: scihub.png
+      url: https://sci-hub.se/
+      description: SCI-Hub:科研分享，知识无界。
+    - title: GitHub
+      logo: github.jpg
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: Md2ALL
+      logo: md2all.jpg
+      url: http://md.aclickall.com/
+      description: Markdown 排版利器。
+    - title: Md2X 定制版
+      logo: mdx.png
+      url: https://mdx.ncbix.com/
+      description: Markdown 排版利器，Md2All 定制版。
+    - title: 搜狗微信
+      logo: 搜狗微信.jpg
+      url: https://weixin.sogou.com/
+      description: 搜狗微信搜索，一搜即达。
+    - title: 简书
+      logo: 简书.png
+      url: https://www.jianshu.com/
+      description: 简书创作社区。
+    - title: 知乎
+      logo: 知乎.png
+      url: https://www.zhihu.com/
+      description: 知乎社区。
     - title: V2EX
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-    - title: 语雀话题
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
+    - title: 哔哩哔哩
+      logo: 哔哩哔哩.png
+      url: https://www.bilibili.com/
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
-
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -130,7 +192,6 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-        
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg

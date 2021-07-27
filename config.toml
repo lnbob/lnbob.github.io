@@ -1,6 +1,6 @@
-baseURL = "https://nav.bioitee.com"
+baseURL = "https://lnbob.github.io/"
 languageCode = "zh-CN"
-title = "Bio & IT 网址导航 | Hugo 主题"
+title = "Bio & IT 网址导航 | 林Lnbob"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
@@ -9,8 +9,8 @@ publishDir = "docs"
 
 
 [params]
-    author = "shenweiyan"
-    description = "Webstack Hugo 网址导航 | Bio IT 爱好者"
+    author = "林Lnbob"
+    description = "Bio & IT 网址导航"
     siteurl = "./"
     repository = "https://lnbob.github.io/"
     enableLoad = true
